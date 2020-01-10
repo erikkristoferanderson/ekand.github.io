@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+title:               Erik Kristofer Anderon
+tagline:             A Superlatively Adequate Data Science Blog
+url:                 http://ekand.github.io
 paginate:            2
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Erik Kristofer Anderson
+  url:               https://twitter.com/ekand_erik
+  email:             erik.kristofer.anderson@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             0.1.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/ekand/ekand.github.io
 
 # Gems
 gems:
