@@ -1,0 +1,29 @@
+---
+layout: post
+title: Week 0 Wrap\: Metis Data Science Bootcamp
+---
+
+I've come to the end of the first or zero-eth week of the Metis Data Science Bootcamp. As I go over my notes, I realized we covered a lot of ground in one short week.
+
+
+We did a variety of things including lectures, pair programming exercises, and a group project. Here are some of those things
+- pandas: a cute name based on panel data. Sort of a spreadsheet on steroids that you interact with only by typing, rather than by pointing and clicking. It also gracefully handles missing data.
+- numpy: numerical python. a library (basically a program) that extends the Python programming language to make it more efficient doing math on large collections of numbers.
+- The need to focus on a business question before even thinking about collecting data.
+- The problems that can exist in data, like people being inconsistent about how they spell thngs, and what to do about it. This is called data cleaning.
+- We learned that sometimes you have the choice between spending 12 hours coding something to solve a tricky problem, or else searching for a solution that already exists, probably in software that you already have.
+- Git is a tool for tracking, remembering, and undoing changes to files. It's sort of like an undo button, but it's also so much more.
+- Github is emphatically not Git.
+- Commit messages are little notes that explain why you saved a particular snapshot of your code. When you're making them they can feel like a waste of time. But you are reading them days or months later, they can be a lifesaver.
+- matplotlib. This is a library that lets you plot data. It can be quick and simple or highly customizable. 
+- Git branches: Git is important, so we spent more time on it. It gets technical, but basically, it allows multiple people to work on different versions of a project, then combines their work in a graceful, controlled fashion.
+- We went over tips for giving good presentations. Notably, in the business environment that Metis prepares us for, small amounts of large text are the norm.
+- There was a lecture on what they called Design Thinking. It involves starting with the end-user (basically, the real person who uses the result of your work), thinking of how you can help them, building a minimum viable product, then iterating from there.
+- Code Style: This is key because it's important for humans, as well as computers, to be able to effectively read code. Formatting, comments, and thoughtful variable and function names help with this. Python is an interesting case in that some of the white space formatting has syntactical meaning; that is, the computer pays attention to white space when executing code. In Python, this imposes visual hints about the meaning, or semantics, of the code. But there are Google has a Style Guide for Python, which Metis recommends to us.
+- Computation Complexity: Sometimes, creating an algorithm that solves a problem is not enough. I learned this the hard way in a pair programming exercise. The problem was to find the largest factor of a very large number. The solution we came up with was correct, in that it found the correct solution for smaller numbers. It would have found the answer for a large number... eventually. I don't know how long because we gave up waiting for it, and then time was called on the exercise. For all I know, it might have taken years for the computer to find the answer. Studying Computational Complexity means determining how much work, relatively speaking, a computer will need to do to solve a problem in a particular way.
+- They warned us about perfectionism and promised that with the unfair deadlines they enforce, we wouldn't have room for it in this Bootcamp.
+- We had studied python in the prework, but here they introduced some more concepts, including pickling, defaults dicts, named tuples, double-ended queues, and generators.
+- They also gave a short presentation on writing a data science blog.
+- And finally, we (being myself and three other people: Eli, Eric, And Joanna) "did a data science" by analyzing public data on New York City subway ridership and advising a hypothetical client about when and where to deploy street teams to get pamphlets for their gala into the most hands possible.
+
+-----
