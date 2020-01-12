@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content [place holder from zwmiller]
+title: Example content
 ---
 
 

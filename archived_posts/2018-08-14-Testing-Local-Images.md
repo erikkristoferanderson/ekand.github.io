@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zach's Test Post [place holder from zwmiller]
+title: Zach's Test Post
 ---
 
 This is a test post. 
