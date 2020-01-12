@@ -2,7 +2,7 @@ Hello and welcome to my blog!
 This repository contains of the information, but the prettier presentation of the blog is live at [https://ekand.github.io](https://ekand.github.io).
 
 
-Below is some boilerplate information about 
+Below is some boilerplate information about the theme I'm using.
 
 
 
