@@ -3,10 +3,19 @@ layout: page
 title: About
 ---
 
-Hello and welcome to my blog! I suspect you're already here, but if not, here's a link to the blog: [https://ekand.github.io](https://ekand.github.io).
+# Hello and welcome to my blog! 
 
+I suspect you're already here, but if not, here's a link to the blog: [https://ekand.github.io](https://ekand.github.io).
+You can also view the repo [here]
 
-The Below is some boilerplate about the theme I'm using:
+You can contact me in the foollowing places: 
+https://twitter.com/ekand_erik 
+https://dev.to/erikkristoferanderson 
+erik.kristofer.anderson@gmail.com
+
+Below is some information about the theme I'm using.
+
+The below is some information about the theme I'm using:
 
 
 <p class="message">
