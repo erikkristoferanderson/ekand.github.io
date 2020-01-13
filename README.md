@@ -1,8 +1,16 @@
+# Hi!
 Hello and welcome to my blog!
 This repository contains of the information, but the prettier presentation of the blog is live at [https://ekand.github.io](https://ekand.github.io).
 
+You can also view the repo [here](https://github.com/ekand/ekand.github.io)
 
-Below is some boilerplate information about the theme I'm using.
+You can contact me in the foollowing places:
+https://twitter.com/ekand_erik
+https://dev.to/erikkristoferanderson
+erik.kristofer.anderson@gmail.com
+
+
+Below is some information about the theme I'm using.
 
 
 
