@@ -14,8 +14,8 @@ The techniques used were Linear Regression for feature engineering and Random Fo
 The Random Forest Classifier Model performed passably well: It had 25% precision, although the recall was quite low. However, this is adequate for my use case: If I can tell drivers "go to this place at this time and you've got a 25% chance of catching a surge," I think that's valuable.  
 The model also identified important features: proximity to the loop, per capita income in the community area where the trip starts, and whether the trip starts between 4 pm and 8 pm. In other words, high demand pricing is more likely to occur downtown.
 This is a nice sanity check to ensure the model makes sense.  
-Below, you can see some visualizations of the model's predictions. There are also live, interactive visualization [here](https://public.tableau.com/profile/erik.kristofer.anderson#!/vizhome/RideshareHighDemandPricingPredictions/predict_morn_eve?publish=yes) and [here](https://public.tableau.com/profile/erik.kristofer.anderson#!/vizhome/RideshareHighDemandPricingPredictions/true_and_pred_dashboard?publish=yes).  
-The jupyter notebooks contain most of the code and the detailed analysis. Most everything can be found [on Github][(https://github.com/ekand/rideshare_helper).  
+There are some live, interactive visualization [here](https://public.tableau.com/profile/erik.kristofer.anderson#!/vizhome/RideshareHighDemandPricingPredictions/predict_morn_eve?publish=yes) and [here](https://public.tableau.com/profile/erik.kristofer.anderson#!/vizhome/RideshareHighDemandPricingPredictions/true_and_pred_dashboard?publish=yes).  
+The jupyter notebooks contain most of the code and the detailed analysis. Most everything can be found [on Github](https://github.com/ekand/rideshare_helper).  
 For those of you who are interested, the organization of the project is as follows:  
 ```
 ------------
@@ -43,11 +43,9 @@ For those of you who are interested, the organization of the project is as follo
     └── visualization
 --------
 ```
-This project was based on the cookiecutter data science project template.
-" https://drivendata.github.io/cookiecutter-data-science/"
-#cookiecutterdatascience
-I hope you enjoyed reading this and please post below if you have questions (or if you just liked it, or even if you didn't; I just love comments).
-
+This project was based on the cookiecutter data science project template.  
+" https://drivendata.github.io/cookiecutter-data-science/"  
+#cookiecutterdatascience  
 
 ---
 
