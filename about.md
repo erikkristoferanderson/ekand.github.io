@@ -5,18 +5,12 @@ title: About
 
 # Hello and welcome to my blog! 
 
-I suspect you're already here, but if not, here's a link to the blog: [https://ekand.github.io](https://ekand.github.io).
-You can also view the repo [here](https://github.com/ekand/ekand.github.io)
+This blog is here to chronicle my data science journey. 
 
-You can contact me in the following places: 
-https://twitter.com/ekand_erik   
-https://dev.to/erikkristoferanderson   
-erik.kristofer.anderson@gmail.com  
+If you're looking for my Github repos, please (click here)[https://github.com/ekand].
+To contanct me, try (erik@ekand.io)[mailto:erik@ekand.io]
 
-Below is some information about the theme I'm using.
-
-The below is some information about the theme I'm using:
-
+Below is some boilerplate information about the theme I'm using.
 
 ## Poole
 Efective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
