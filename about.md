@@ -11,7 +11,7 @@ If you're looking for my Github repos, please [click here](https://github.com/ek
 To contanct me, try [erik@ekand.io](mailto:erik@ekand.io).  
 You may also want to check out my [LinkedIn Profile](https://www.linkedin.com/in/ekand/).  
 
-Below is some boilerplate information about the theme I'm using.
+Below is some information about the theme I'm using.
 
 ## Poole
 Efective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
