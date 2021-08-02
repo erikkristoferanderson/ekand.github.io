@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Erik Kristofer Anderson
-tagline:             A Perfectly Adequate Data Science Blog
+tagline:             A Perfectly Adequate Blog
 url:                 http://ekand.github.io
 paginate:            2
 baseurl:             ""
