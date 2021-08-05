@@ -3,13 +3,21 @@ layout: page
 title: About
 ---
 
-# Hello and welcome to my blog! 
+# Hello and welcome to my webpage!
 
-This blog is here to chronicle my data science journey. 
+
+
+This website exists to collect various things I've done online, and to host a blog about my exploits.
+
+For my youtube videos, [see here](https://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A).
+
+For some art I once made, [see here](https://ekristoferanderson.wordpress.com/).
 
 If you're looking for my Github repos, please [click here](https://github.com/ekand).  
-To contanct me, try [erik@ekand.io](mailto:erik@ekand.io).  
+To contanct me, try [erik.kristofer.anderson@gmail.com](mailto:erik.kristofer.anderson@gmail.com).  
 You may also want to check out my [LinkedIn Profile](https://www.linkedin.com/in/ekand/).  
+
+# Theme information
 
 Below is some information about the theme I'm using.
 
