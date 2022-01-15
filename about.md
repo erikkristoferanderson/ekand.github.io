@@ -12,7 +12,7 @@ For my youtube videos, [see here](https://www.youtube.com/channel/UCkWlNrTU1a8t7
 For some art I once made, [see here](https://ekristoferanderson.wordpress.com/).
 
 If you're looking for my Github repos, please [click here](https://github.com/ekand).  
-To contanct me, try [erik.kristofer.anderson@gmail.com](mailto:erik.kristofer.anderson@gmail.com).  
+To contact me, try [erik.kristofer.anderson@gmail.com](mailto:erik.kristofer.anderson@gmail.com).  
 You may also want to check out my [LinkedIn Profile](https://www.linkedin.com/in/ekand/).  
 
 Thanks for reading!
