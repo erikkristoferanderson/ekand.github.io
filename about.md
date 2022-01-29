@@ -7,7 +7,7 @@ title: About
 
 This website exists to collect various things I've done online, and to host a blog about my exploits.
 
-To play with a digital instrument I recently created, [click here](https://tender-feynman-fb1a2d.netlify.app/)
+To play with a digital instrument I recently created, [click here](https://tender-feynman-fb1a2d.netlify.app/).
 
 For my youtube videos, [see here](https://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A).
 
